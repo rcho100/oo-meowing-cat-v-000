@@ -1,3 +1,3 @@
 class Cat
-  attr_accesor
+  attr_accesor:name 
 end
